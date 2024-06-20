@@ -269,8 +269,8 @@ D:\VS_Projects\CrudSupera\obj\Debug\net7.0\CrudSupera.genruntimeconfig.cache
 D:\VS_Projects\CrudSupera\obj\Debug\net7.0\ref\CrudSupera.dll
 C:\VS_Projects\CrudSupera\bin\Debug\net7.0\appsettings.Development.json
 C:\VS_Projects\CrudSupera\bin\Debug\net7.0\appsettings.json
-C:\VS_Projects\CrudSupera\bin\Debug\net7.0\app.db
 C:\VS_Projects\CrudSupera\bin\Debug\net7.0\CrudSupera.staticwebassets.runtime.json
+C:\VS_Projects\CrudSupera\bin\Debug\net7.0\app.db
 C:\VS_Projects\CrudSupera\bin\Debug\net7.0\CrudSupera.exe
 C:\VS_Projects\CrudSupera\bin\Debug\net7.0\CrudSupera.deps.json
 C:\VS_Projects\CrudSupera\bin\Debug\net7.0\CrudSupera.runtimeconfig.json

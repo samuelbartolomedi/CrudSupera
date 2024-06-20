@@ -22,6 +22,26 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/VS_Projects/CrudSupera/Pages/Assinaturas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzaW5hdHVyYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VS_Projects/CrudSupera/Pages/Assinaturas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzaW5hdHVyYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VS_Projects/CrudSupera/Pages/Assinaturas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzaW5hdHVyYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VS_Projects/CrudSupera/Pages/Assinaturas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzaW5hdHVyYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VS_Projects/CrudSupera/Pages/Assinaturas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzaW5hdHVyYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/VS_Projects/CrudSupera/Pages/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
