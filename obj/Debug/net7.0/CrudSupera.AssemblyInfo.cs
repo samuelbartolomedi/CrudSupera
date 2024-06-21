@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudSupera")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d9d8caedfaa265449dfa42c90ffb9ea2e704e0d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+147d559e287d839c03f4606c691db256044325ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudSupera")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudSupera")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
