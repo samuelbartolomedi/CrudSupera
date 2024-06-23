@@ -30,14 +30,14 @@
             @Html.DisplayFor(model => model.Assinatura.DataFim)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Assinatura.Cliente)
+            @Html.DisplayNameFor(model => model.Assinatura.Cliente.Cpf)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Assinatura.Cliente.Nome)
+            @Html.DisplayFor(model => model.Assinatura.Cliente.Cpf)
         </dd>
     </dl>
 </div>
 <div>
-    <a asp-page="./Edit" asp-route-id="@Model.Assinatura?.Id">Edit</a> |
+    <a asp-page="./Edit" asp-route-id="@Model.Assinatura?.Id">Editar</a> |
     <a asp-page="./Index">Voltar</a>
 </div>

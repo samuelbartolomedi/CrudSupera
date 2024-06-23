@@ -36,6 +36,7 @@ namespace CrudSupera.Pages_Assinaturas
             else 
             {
                 Assinatura = assinatura;
+                Cliente cliente = _context.Clientes.Where(x => x.Id == assinatura.ClienteId).First();
             }
             return Page();
         }

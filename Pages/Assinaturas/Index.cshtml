@@ -23,7 +23,7 @@
                 @Html.DisplayNameFor(model => model.Assinatura[0].DataFim)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Assinatura[0].Cliente)
+                @Html.DisplayNameFor(model => model.Assinatura[0].Cliente.Cpf)
             </th>
             <th></th>
         </tr>
@@ -41,12 +41,12 @@
                 @Html.DisplayFor(modelItem => item.DataFim)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Cliente.Nome)
+                @Html.DisplayFor(modelItem => item.Cliente.Cpf)
             </td>
             <td>
-                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Detalhes</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Deletar</a>
             </td>
         </tr>
 }

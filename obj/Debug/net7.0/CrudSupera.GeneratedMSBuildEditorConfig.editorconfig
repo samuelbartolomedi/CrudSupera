@@ -9,87 +9,85 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CrudSupera
 build_property.RootNamespace = CrudSupera
-build_property.ProjectDir = C:\VS_Projects\CrudSupera\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = D:\VS_Projects\CrudSupera\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\VS_Projects\CrudSupera
+build_property.MSBuildProjectDirectory = D:\VS_Projects\CrudSupera
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/VS_Projects/CrudSupera/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/VS_Projects/CrudSupera/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/Assinaturas/Create.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/Assinaturas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzaW5hdHVyYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/Assinaturas/Delete.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/Assinaturas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzaW5hdHVyYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/Assinaturas/Details.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/Assinaturas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzaW5hdHVyYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/Assinaturas/Edit.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/Assinaturas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzaW5hdHVyYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/Assinaturas/Index.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/Assinaturas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzaW5hdHVyYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/Clientes/Create.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/Clientes/Delete.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/Clientes/Details.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/Clientes/Edit.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/Clientes/Index.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/Error.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/Index.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/Privacy.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/Shared/_LoginPartial.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/_ViewImports.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/_ViewStart.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS_Projects/CrudSupera/Pages/Shared/_Layout.cshtml]
+[D:/VS_Projects/CrudSupera/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-go5j2s6ovf
